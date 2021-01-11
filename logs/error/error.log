@@ -1,0 +1,4 @@
+2021-01-06 15:52:48,323-selenium.py[__get:136]-ERROR: url: https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/ request time out
+2021-01-06 15:52:48,648-page_gen_mgr.py[run:47]-ERROR: execute func error: 'NoneType' object has no attribute 'find_all', msg: {'url': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/'}
+2021-01-06 16:01:38,944-selenium.py[__get:136]-ERROR: url: https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/ request time out
+2021-01-06 16:01:39,220-page_gen_mgr.py[run:47]-ERROR: execute func error: 'NoneType' object has no attribute 'find_all', msg: {'url': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/'}

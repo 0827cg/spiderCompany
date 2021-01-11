@@ -1,0 +1,5 @@
+2020-12-29 10:38:26,521-error-page_gen_mgr.py[run:46]-ERROR : execute func error: 'NoneType' object has no attribute 'find'
+2020-12-29 10:38:45,364-error-page_gen_mgr.py[run:46]-ERROR : execute func error: 'NoneType' object has no attribute 'find'
+2020-12-29 10:38:46,539-error-page_gen_mgr.py[run:46]-ERROR : execute func error: 'NoneType' object has no attribute 'find'
+2020-12-29 10:54:09,504-error-page_gen_mgr.py[run:46]-ERROR : execute func error: 'NoneType' object has no attribute 'find_all', msg: <module.selenium.msg.boss_company_list.BossCompanyList object at 0x000001F9634A4F60>
+2020-12-29 11:03:22,881-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/91c7f92e54d88c2603x_09-1.html', 'category': '东莞贸易+进出口'}

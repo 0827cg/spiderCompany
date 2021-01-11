@@ -1,0 +1,8 @@
+2020-12-17 11:53:11,262-common-operate.py[__handle_ctrl_c:51]-INFO : app exit
+2020-12-17 11:53:55,544-common-config_mgr.py[boot:29]-INFO : config boot complete
+2020-12-17 11:54:31,622-common-operate.py[__handle_ctrl_c:51]-INFO : app exit
+2020-12-17 14:52:05,843-common-config_mgr.py[boot:29]-INFO : configuration boot complete
+2020-12-17 14:58:26,636-common-config_mgr.py[boot:29]-INFO : configuration boot complete
+2020-12-17 14:58:38,638-common-operate.py[__handle_ctrl_c:53]-INFO : app exit
+2020-12-17 15:04:35,336-common-config_mgr.py[boot:29]-INFO : configuration boot complete
+2020-12-17 15:04:41,366-common-operate.py[__handle_ctrl_c:54]-INFO : app exit

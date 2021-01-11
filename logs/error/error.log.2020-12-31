@@ -1,0 +1,72 @@
+2020-12-31 14:55:27,654-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/f0dc27dca8d2b87d03R_09S0.html', 'referer': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/', 'category': '东莞贸易+进出口'}
+2020-12-31 14:56:47,736-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/2540c1868c94fb081XN439m_.html', 'referer': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/', 'category': '东莞贸易+进出口'}
+2020-12-31 14:56:54,873-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:56:54,873-tianyan_mgr.py[__get_contents:167]-ERROR: 3
+2020-12-31 14:56:54,874-tianyan_mgr.py[__get_contents:167]-ERROR: 5
+2020-12-31 14:56:54,874-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:56:54,874-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:57:34,382-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:57:34,382-tianyan_mgr.py[__get_contents:167]-ERROR: 3
+2020-12-31 14:57:34,382-tianyan_mgr.py[__get_contents:167]-ERROR: 5
+2020-12-31 14:57:34,382-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:57:34,383-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:58:09,689-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/ed3d7f52374b575f33Fz2dm6.html', 'referer': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/', 'category': '东莞贸易+进出口'}
+2020-12-31 14:58:20,830-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:58:20,831-tianyan_mgr.py[__get_contents:167]-ERROR: 3
+2020-12-31 14:58:20,832-tianyan_mgr.py[__get_contents:167]-ERROR: 5
+2020-12-31 14:58:20,832-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:58:20,835-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:58:27,876-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/8105605a1b2c70b433R63tS4.html', 'referer': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/', 'category': '东莞贸易+进出口'}
+2020-12-31 14:58:47,451-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/0aefb1e9f37030fc0Xx72928.html', 'referer': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/', 'category': '东莞贸易+进出口'}
+2020-12-31 14:59:12,269-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:59:12,269-tianyan_mgr.py[__get_contents:167]-ERROR: 3
+2020-12-31 14:59:12,270-tianyan_mgr.py[__get_contents:167]-ERROR: 5
+2020-12-31 14:59:12,270-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:59:12,273-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:59:37,990-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:59:37,991-tianyan_mgr.py[__get_contents:167]-ERROR: 3
+2020-12-31 14:59:37,993-tianyan_mgr.py[__get_contents:167]-ERROR: 5
+2020-12-31 14:59:37,996-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 14:59:37,996-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 15:00:00,021-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 15:00:00,021-tianyan_mgr.py[__get_contents:167]-ERROR: 3
+2020-12-31 15:00:00,022-tianyan_mgr.py[__get_contents:167]-ERROR: 5
+2020-12-31 15:00:00,025-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 15:00:00,025-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-31 15:00:06,395-page_gen_mgr.py[run:46]-ERROR: execute func error: Message: no such window: window was already closed
+  (Session info: chrome=87.0.4280.88)
+, msg: {'url': 'https://www.zhipin.com/gongsi/a5988af3c4c793740nx709i6.html', 'referer': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/', 'category': '东莞贸易+进出口'}
+2020-12-31 15:00:07,359-page_gen_mgr.py[run:46]-ERROR: execute func error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.88)
+, msg: {'url': 'https://www.tianyancha.com/search?key=%E4%B8%9C%E8%8E%9E%E5%B8%82%E5%94%AF%E5%B0%94%E5%A3%B0%E8%A7%86%E5%90%AC%E8%AE%BE%E5%A4%87%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8', 'category': '东莞贸易+进出口'}
+2020-12-31 15:00:24,374-page_gen_mgr.py[run:46]-ERROR: execute func error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.88)
+, msg: {'url': 'https://www.zhipin.com/gongsi/b84c884712826cb333V62dm4.html', 'referer': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/', 'category': '东莞贸易+进出口'}
+2020-12-31 15:00:25,352-page_gen_mgr.py[run:46]-ERROR: execute func error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.88)
+, msg: {'url': 'https://www.tianyancha.com/search?key=%E4%B8%9C%E8%8E%9E%E5%B8%82%E4%BD%B3%E7%9D%A6%E5%8C%85%E8%A3%85%E6%9D%90%E6%96%99%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8', 'category': '东莞贸易+进出口'}
+2020-12-31 15:00:44,355-page_gen_mgr.py[run:46]-ERROR: execute func error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.88)
+, msg: {'url': 'https://www.zhipin.com/gongsi/b62e9ea84aae288103Zz3d-4.html', 'referer': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/', 'category': '东莞贸易+进出口'}
+2020-12-31 15:00:45,355-page_gen_mgr.py[run:46]-ERROR: execute func error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.88)
+, msg: {'url': 'https://www.tianyancha.com/search?key=%E4%B8%9C%E8%8E%9E%E5%B8%82%E7%B2%BE%E5%BD%A9%E5%B1%95%E7%A4%BA%E5%88%B6%E5%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8', 'category': '东莞贸易+进出口'}
+2020-12-31 15:30:26,052-tianyan_mgr.py[__get_contents:169]-ERROR: 1
+2020-12-31 15:30:26,052-tianyan_mgr.py[__get_contents:169]-ERROR: 3
+2020-12-31 15:30:26,053-tianyan_mgr.py[__get_contents:169]-ERROR: 5
+2020-12-31 15:30:26,054-tianyan_mgr.py[__get_contents:169]-ERROR: 1
+2020-12-31 15:30:26,055-tianyan_mgr.py[__get_contents:169]-ERROR: 1
+2020-12-31 15:31:25,978-tianyan_mgr.py[__get_contents:169]-ERROR: 1
+2020-12-31 15:31:25,979-tianyan_mgr.py[__get_contents:169]-ERROR: 3
+2020-12-31 15:31:25,980-tianyan_mgr.py[__get_contents:169]-ERROR: 5
+2020-12-31 15:31:25,982-tianyan_mgr.py[__get_contents:169]-ERROR: 1
+2020-12-31 15:31:25,986-tianyan_mgr.py[__get_contents:169]-ERROR: 1
+2020-12-31 15:31:29,811-page_gen_mgr.py[run:48]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/2e4a5a34846d3da31nJ429g~.html', 'referer': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/', 'category': '东莞贸易+进出口'}
+2020-12-31 15:31:44,820-page_gen_mgr.py[run:48]-ERROR: execute func error: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)), msg: {'url': 'https://www.tianyancha.com/search?key=%E4%B8%9C%E8%8E%9E%E5%B8%82%E5%B0%9A%E5%8F%B0%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9C%BA%E6%A2%B0%E8%AE%BE%E5%A4%87%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8', 'category': '东莞贸易+进出口'}
+2020-12-31 16:36:55,141-selenium.py[__get:134]-ERROR: url: https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/ request time out
+2020-12-31 16:36:55,466-page_gen_mgr.py[run:47]-ERROR: execute func error: 'NoneType' object has no attribute 'find_all', msg: {'url': 'https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/'}

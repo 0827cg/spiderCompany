@@ -1,0 +1,12 @@
+{
+    "gapMillsSameSite": 3,
+    "outDirPath": "D:\\work\\python\\pycharm\\200506\\spiderCompany\\out",
+    "bossZhiPin": [
+        "https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/"
+    ],
+    "bossZhiPin_cookie": "D:\\work\\python\\pycharm\\200506\\spiderCompany\\resource\\bosszhipin_cookie_chrome.txt",
+    "tianyanCha": "https://www.tianyancha.com/search",
+    "tianyanCha_cookie": "D:\\work\\python\\pycharm\\200506\\spiderCompany\\resource\\tianyancha_cookie_chrome.txt",
+    "headless": true,
+    "chrome_driver_path": "D:\\work\\python\\pycharm\\200506\\spiderCompany\\lib\\chromedriver_win32\\chromedriver.exe"
+}

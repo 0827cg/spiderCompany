@@ -1,0 +1,48 @@
+2021-01-06 15:51:24,896-config_mgr.py[boot:30]-INFO: configuration boot complete
+2021-01-06 15:51:30,208-selenium.py[init:68]-INFO: browser started...
+2021-01-06 15:51:30,270-page_gen_mgr.py[start:27]-INFO: PageGenMgr started...
+2021-01-06 15:51:30,270-result_mgr.py[start:28]-INFO: ResultMgr started...
+2021-01-06 15:51:30,271-tianyan_mgr.py[start:40]-INFO: TianyanChaMgr started...
+2021-01-06 15:51:30,271-research_mgr.py[start:28]-INFO: ResearchMgr started...
+2021-01-06 15:51:30,271-boss_mgr.py[start:35]-INFO: BossZhiPinMgr started...
+2021-01-06 15:51:30,271-gen_mgr.py[start:18]-INFO: GenMgr started...
+2021-01-06 15:51:31,272-selenium.py[site_add_cookies:315]-INFO: try add cookie for site: https://www.tianyancha.com, key: tianyan
+2021-01-06 15:51:32,408-selenium.py[__get:141]-INFO: url: https://www.tianyancha.com request success, cost: 1.115 seconds
+2021-01-06 15:51:32,598-page_gen_mgr.py[run:51]-INFO: check
+2021-01-06 15:51:33,284-selenium.py[site_add_cookies:315]-INFO: try add cookie for site: https://www.zhipin.com, key: boss
+2021-01-06 15:51:42,446-selenium.py[__get:141]-INFO: url: https://www.zhipin.com request success, cost: 7.122 seconds
+2021-01-06 15:51:44,800-page_gen_mgr.py[run:51]-INFO: check
+2021-01-06 15:52:48,397-selenium.py[mark_complete:276]-INFO: complete_dict: {'1609919482470': True}
+2021-01-06 15:52:48,649-page_gen_mgr.py[run:51]-INFO: check
+2021-01-06 15:59:00,280-boss_mgr.py[stop:40]-INFO: stop BossZhiPinMgr
+2021-01-06 15:59:00,281-gen_mgr.py[stop:23]-INFO: stop GenMgr
+2021-01-06 15:59:00,282-tianyan_mgr.py[stop:44]-INFO: stop TianyanChaMgr
+2021-01-06 15:59:00,283-research_mgr.py[stop:33]-INFO: stop ResearchMgr
+2021-01-06 15:59:00,283-result_mgr.py[stop:32]-INFO: stop ResultMgr
+2021-01-06 15:59:00,284-page_gen_mgr.py[stop:31]-INFO: stop PageGenMgr
+2021-01-06 15:59:13,245-selenium.py[quit:73]-INFO: stop browser
+2021-01-06 15:59:13,247-operate.py[__handle_ctrl_c:80]-INFO: app exit
+2021-01-06 16:00:15,515-config_mgr.py[boot:30]-INFO: configuration boot complete
+2021-01-06 16:00:20,510-selenium.py[init:68]-INFO: browser started...
+2021-01-06 16:00:20,544-page_gen_mgr.py[start:27]-INFO: PageGenMgr started...
+2021-01-06 16:00:20,545-result_mgr.py[start:28]-INFO: ResultMgr started...
+2021-01-06 16:00:20,545-tianyan_mgr.py[start:40]-INFO: TianyanChaMgr started...
+2021-01-06 16:00:20,545-research_mgr.py[start:28]-INFO: ResearchMgr started...
+2021-01-06 16:00:20,545-boss_mgr.py[start:35]-INFO: BossZhiPinMgr started...
+2021-01-06 16:00:20,545-gen_mgr.py[start:18]-INFO: GenMgr started...
+2021-01-06 16:00:21,545-selenium.py[site_add_cookies:315]-INFO: try add cookie for site: https://www.tianyancha.com, key: tianyan
+2021-01-06 16:00:23,116-selenium.py[__get:141]-INFO: url: https://www.tianyancha.com request success, cost: 1.57 seconds
+2021-01-06 16:00:23,287-page_gen_mgr.py[run:51]-INFO: check
+2021-01-06 16:00:23,546-selenium.py[site_add_cookies:315]-INFO: try add cookie for site: https://www.zhipin.com, key: boss
+2021-01-06 16:00:31,050-selenium.py[__get:141]-INFO: url: https://www.zhipin.com request success, cost: 5.48 seconds
+2021-01-06 16:00:35,239-page_gen_mgr.py[run:51]-INFO: check
+2021-01-06 16:01:38,966-selenium.py[mark_complete:276]-INFO: complete_dict: {'1609920015123': True}
+2021-01-06 16:01:39,221-page_gen_mgr.py[run:51]-INFO: check
+2021-01-06 16:26:37,546-boss_mgr.py[stop:40]-INFO: stop BossZhiPinMgr
+2021-01-06 16:26:37,546-gen_mgr.py[stop:23]-INFO: stop GenMgr
+2021-01-06 16:26:37,546-tianyan_mgr.py[stop:44]-INFO: stop TianyanChaMgr
+2021-01-06 16:26:37,546-research_mgr.py[stop:33]-INFO: stop ResearchMgr
+2021-01-06 16:26:37,547-result_mgr.py[stop:32]-INFO: stop ResultMgr
+2021-01-06 16:26:37,547-page_gen_mgr.py[stop:31]-INFO: stop PageGenMgr
+2021-01-06 16:26:49,967-selenium.py[quit:73]-INFO: stop browser
+2021-01-06 16:26:49,969-operate.py[__handle_ctrl_c:80]-INFO: app exit

@@ -1,0 +1,17 @@
+2020-12-30 16:30:05,647-selenium.py[__get:130]-ERROR: url: https://www.tianyancha.com/search request time out
+2020-12-30 16:30:05,834-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find_all', msg: {'url': 'https://www.tianyancha.com/search', 'category': '东莞贸易+进出口'}
+2020-12-30 16:30:57,776-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/2540c1868c94fb081XN439m_.html', 'category': '东莞贸易+进出口'}
+2020-12-30 16:31:16,440-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-30 16:31:16,440-tianyan_mgr.py[__get_contents:167]-ERROR: 3
+2020-12-30 16:31:16,440-tianyan_mgr.py[__get_contents:167]-ERROR: 5
+2020-12-30 16:31:16,441-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-30 16:31:16,441-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-30 16:31:23,751-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/2e4a5a34846d3da31nJ429g~.html', 'category': '东莞贸易+进出口'}
+2020-12-30 16:31:50,625-selenium.py[__get:130]-ERROR: url: https://www.zhipin.com/gongsi/019e0fa7c1e7761a1HZ-2Nu9.html request time out
+2020-12-30 16:31:50,864-page_gen_mgr.py[run:46]-ERROR: execute func error: 'NoneType' object has no attribute 'find', msg: {'url': 'https://www.zhipin.com/gongsi/019e0fa7c1e7761a1HZ-2Nu9.html', 'category': '东莞贸易+进出口'}
+2020-12-30 16:31:57,551-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-30 16:31:57,551-tianyan_mgr.py[__get_contents:167]-ERROR: 3
+2020-12-30 16:31:57,551-tianyan_mgr.py[__get_contents:167]-ERROR: 5
+2020-12-30 16:31:57,551-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-30 16:31:57,551-tianyan_mgr.py[__get_contents:167]-ERROR: 1
+2020-12-30 16:32:01,508-page_gen_mgr.py[run:46]-ERROR: execute func error: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)), msg: {'url': 'https://www.zhipin.com/gongsi/ed3d7f52374b575f33Fz2dm6.html', 'category': '东莞贸易+进出口'}

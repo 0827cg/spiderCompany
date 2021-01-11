@@ -1,0 +1,33 @@
+2020-12-30 16:28:46,489-config_mgr.py[boot:30]-INFO: configuration boot complete
+2020-12-30 16:28:49,531-selenium.py[init:64]-INFO: browser started...
+2020-12-30 16:28:49,567-page_gen_mgr.py[start:26]-INFO: PageGenMgr started...
+2020-12-30 16:28:49,568-result_mgr.py[start:28]-INFO: ResultMgr started...
+2020-12-30 16:28:49,568-tianyan_mgr.py[start:39]-INFO: TianyanChaMgr started...
+2020-12-30 16:28:49,568-research_mgr.py[start:28]-INFO: ResearchMgr started...
+2020-12-30 16:28:49,569-boss_mgr.py[start:35]-INFO: BossZhiPinMgr started...
+2020-12-30 16:28:49,569-gen_mgr.py[start:18]-INFO: GenMgr started...
+2020-12-30 16:28:50,569-selenium.py[site_add_cookies:308]-INFO: try add cookie for site: https://www.tianyancha.com, key: tianyan
+2020-12-30 16:28:53,921-selenium.py[__get:135]-INFO: url: https://www.tianyancha.com request success, cost: 3.351 seconds
+2020-12-30 16:28:55,570-selenium.py[site_add_cookies:308]-INFO: try add cookie for site: https://www.zhipin.com, key: boss
+2020-12-30 16:29:02,594-selenium.py[__get:135]-INFO: url: https://www.zhipin.com request success, cost: 6.987 seconds
+2020-12-30 16:29:14,669-selenium.py[__get:135]-INFO: url: https://www.zhipin.com/gongsi/_zzz_c101281600_iy100504/ request success, cost: 4.023 seconds
+2020-12-30 16:29:37,972-selenium.py[__get:135]-INFO: url: https://www.zhipin.com/gongsi/f0dc27dca8d2b87d03R_09S0.html request success, cost: 7.327 seconds
+2020-12-30 16:30:11,554-selenium.py[__get:135]-INFO: url: https://www.zhipin.com/gongsi/91c7f92e54d88c2603x_09-1.html request success, cost: 4.956 seconds
+2020-12-30 16:30:15,792-selenium.py[__get:135]-INFO: url: https://www.zhipin.com/gongsi/386013264811ee5003J62t27.html request success, cost: 4.131 seconds
+2020-12-30 16:30:35,166-selenium.py[__get:135]-INFO: url: https://www.tianyancha.com/search request success, cost: 4.524 seconds
+2020-12-30 16:30:40,086-selenium.py[__get:135]-INFO: url: https://www.zhipin.com/gongsi/df1ca834766197b00X182Ny-.html request success, cost: 4.448 seconds
+2020-12-30 16:30:54,236-selenium.py[__get:135]-INFO: url: https://www.tianyancha.com/search request success, cost: 3.588 seconds
+2020-12-30 16:30:57,758-selenium.py[__get:135]-INFO: url: https://www.zhipin.com/gongsi/2540c1868c94fb081XN439m_.html request success, cost: 3.148 seconds
+2020-12-30 16:31:15,964-selenium.py[__get:135]-INFO: url: https://www.tianyancha.com/company/3174236173 request success, cost: 5.361 seconds
+2020-12-30 16:31:16,584-result_mgr.py[_assign_search:61]-INFO: save json dir path: D:\work\python\pycharm\200506\spiderCompany\out\东莞贸易+进出口
+2020-12-30 16:31:23,702-selenium.py[__get:135]-INFO: url: https://www.zhipin.com/gongsi/2e4a5a34846d3da31nJ429g~.html request success, cost: 6.987 seconds
+2020-12-30 16:31:35,050-selenium.py[__get:135]-INFO: url: https://www.tianyancha.com/search request success, cost: 4.439 seconds
+2020-12-30 16:31:57,118-selenium.py[__get:135]-INFO: url: https://www.tianyancha.com/company/3174236173 request success, cost: 5.474 seconds
+2020-12-30 16:32:01,569-boss_mgr.py[stop:40]-INFO: stop BossZhiPinMgr
+2020-12-30 16:32:01,569-gen_mgr.py[stop:23]-INFO: stop GenMgr
+2020-12-30 16:32:01,569-tianyan_mgr.py[stop:43]-INFO: stop TianyanChaMgr
+2020-12-30 16:32:01,569-research_mgr.py[stop:33]-INFO: stop ResearchMgr
+2020-12-30 16:32:01,569-result_mgr.py[stop:32]-INFO: stop ResultMgr
+2020-12-30 16:32:01,569-page_gen_mgr.py[stop:30]-INFO: stop PageGenMgr
+2020-12-30 16:32:13,605-selenium.py[quit:69]-INFO: stop browser
+2020-12-30 16:32:13,607-operate.py[__handle_ctrl_c:80]-INFO: app exit
